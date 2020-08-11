@@ -7,4 +7,4 @@ It has gunpowder units available from the start of the game and utilises pikemen
 
 In contrast it has no access to heavy infantry and very limited access to cavalry.
 
-All faction units were repurposed from other factions, none were created from scratch by me, however names were changed.
+All faction units were repurposed from other factions, none were created by myself.
